@@ -1,0 +1,9 @@
+/.vs
+/APIGateway/bin
+/APIGateway/obj
+/CustomerService/obj
+/CustomerService/bin
+/OcelotAPIGateway/obj
+/OcelotAPIGateway/bin
+/ProductService/obj
+/ProductService/bin
